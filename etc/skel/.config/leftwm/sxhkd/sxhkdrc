@@ -401,7 +401,7 @@ super + y
 
 #Picom Toggle
 ctrl + alt + o
-    ~/.config/wmderland/scripts/picom-toggle.sh
+    ~/.config/leftwm/scripts/picom-toggle.sh
 
 #################################################################
 # SUPER + KEYS
