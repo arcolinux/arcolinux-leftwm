@@ -10,7 +10,7 @@ ln -s "$SCRIPTPATH"/down /tmp/leftwm-theme-down
 
 # Boot picom or compton if it exists
 if [ -x "$(command -v picom)" ]; then
-  picom --experimental-backends &> /dev/null &
+  picom &> /dev/null &
 elif [ -x "$(command -v compton)" ]; then
   compton &> /dev/null &
 fi

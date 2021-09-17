@@ -10,14 +10,32 @@ focus_new_windows = true
 
 [[keybind]]
 command = "Execute"
-value = "dmenu_run"
-modifier = ["modkey"]
-key = "p"
+value = "dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'"
+modifier = ["modkey","Shift"]
+key = "d"
+
+[[keybind]]
+command = "Execute"
+value = "thunar"
+modifier = ["modkey", "Shift"]
+key = "Return"
 
 [[keybind]]
 command = "Execute"
 value = "alacritty"
-modifier = ["modkey", "Shift"]
+modifier = ["modkey"]
+key = "t"
+
+[[keybind]]
+command = "Execute"
+value = "alacritty"
+modifier = ["Contol", "Alt"]
+key = "t"
+
+[[keybind]]
+command = "Execute"
+value = "alacritty"
+modifier = ["Control", "Alt"]
 key = "Return"
 
 [[keybind]]
@@ -26,21 +44,14 @@ modifier = ["modkey", "Shift"]
 key = "q"
 
 [[keybind]]
+command = "CloseWindow"
+modifier = ["modkey"]
+key = "q"
+
+[[keybind]]
 command = "SoftReload"
 modifier = ["modkey", "Shift"]
 key = "r"
-
-[[keybind]]
-command = "Execute"
-value = "loginctl kill-session $XDG_SESSION_ID"
-modifier = ["modkey", "Shift"]
-key = "x"
-
-[[keybind]]
-command = "Execute"
-value = "slock"
-modifier = ["modkey", "Control"]
-key = "l"
 
 [[keybind]]
 command = "MoveToLastWorkspace"
