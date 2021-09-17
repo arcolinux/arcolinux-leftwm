@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=autostart leftwm
+GenericName=autostart leftwm
+Comment=autostart leftwm
+Categories=Utility;
+Keywords=autostart
+TryExec=~/.config/leftwm/autostart.sh
+Exec=~/.config/leftwm/autostart.sh
