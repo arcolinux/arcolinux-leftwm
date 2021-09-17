@@ -1,0 +1,121 @@
+[Desktop Entry]
+Name=Variety
+Name[bg]=Variety
+Name[ca]=Variety
+Name[de]=Variety
+Name[es]=Variety
+Name[fr]=Variety
+Name[ko]=버라이어티
+Name[pl]=Variety
+Name[ru]=Variety
+Name[sr]=Разноврсност
+Name[tr]=Variety
+Name[uk]=Variety
+Comment=Variety Wallpaper Changer
+Comment[bg]=Variety Wallpaper Changer
+Comment[ca]=Canviador de fons de pantalla Variety
+Comment[de]=Variety-Hintergrundbildwechsler
+Comment[es]=Cambiador de fondos de pantalla Variety
+Comment[fr]=Changeur de fonds d'écran Variety
+Comment[ko]=버라이어티 배경화면 바꾸기 프로그램
+Comment[pl]=Zmieniacz tapet Variety
+Comment[ru]=Variety — программа для смены обоев
+Comment[sr]=Измењивач позадина Разноврсност
+Comment[tr]=Variety Duvar Kağıdı Değiştirici
+Comment[uk]=Variety — проґрама для зміни шпалер
+Comment[zh_CN]=Variety 壁纸切换器
+Categories=GNOME;GTK;Utility;
+Exec=variety %U
+MimeType=text/uri-list;x-scheme-handler/variety;x-scheme-handler/vrty;
+Icon=variety
+Terminal=false
+Type=Application
+StartupNotify=false
+Actions=Next;Previous;PauseResume;History;Preferences;
+Keywords=Wallpaper;Changer;Change;Download;Downloader;Variety;
+StartupWMClass=Variety
+
+[Desktop Action Next]
+Exec=variety --next
+Name=Next
+Name[bg]=Напред
+Name[ca]=Següent
+Name[de]=Weiter
+Name[es]=Siguiente
+Name[fr]=Suivant
+Name[ko]=다음
+Name[pl]=Następna
+Name[ru]=Следующее
+Name[sr]=Следећа
+Name[tr]=İleri
+Name[uk]=Наступні
+Name[zh_CN]=下一个
+OnlyShowIn=Unity;
+
+[Desktop Action Previous]
+Exec=variety --previous
+Name=Previous
+Name[bg]=Назад
+Name[ca]=Anterior
+Name[de]=Zurück
+Name[es]=Anterior
+Name[fr]=Précédent
+Name[ko]=이전
+Name[pl]=Poprzednia
+Name[ru]=Предыдущее
+Name[sr]=Претходна
+Name[tr]=Geri
+Name[uk]=Попередні
+Name[zh_CN]=上一个
+OnlyShowIn=Unity;
+
+[Desktop Action PauseResume]
+Exec=variety --toggle-pause
+Name=Pause / Resume
+Name[bg]=Пауза / Подновяване
+Name[ca]=Pausa / Continua
+Name[de]=Pause / Weiter
+Name[es]=Pausar/reanudar
+Name[fr]=Pause / Reprendre
+Name[ko]=일시 정지 / 재개
+Name[pl]=Wstrzymaj / Kontynuuj
+Name[ru]=Пауза / Продолжить
+Name[sr]=Застани / Настави
+Name[tr]=Duraklat / Devam
+Name[uk]=Призупинити / Продовжити
+Name[zh_CN]=暂停 / 恢复
+OnlyShowIn=Unity;
+
+[Desktop Action History]
+Exec=variety --history
+Name=History
+Name[bg]=История
+Name[ca]=Historial
+Name[de]=Verlauf
+Name[es]=Historial
+Name[fr]=Historique
+Name[ko]=사용 기록
+Name[pl]=Historia
+Name[ru]=История
+Name[sr]=Историјат
+Name[tr]=Geçmiş
+Name[uk]=Історія
+Name[zh_CN]=历史
+OnlyShowIn=Unity;
+
+[Desktop Action Preferences]
+Exec=variety --preferences
+Name=Preferences
+Name[bg]=Настройки
+Name[ca]=Preferències
+Name[de]=Einstellungen
+Name[es]=Preferencias
+Name[fr]=Préférences
+Name[ko]=환경 설정
+Name[pl]=Preferencje
+Name[ru]=Параметры
+Name[sr]=Поставке
+Name[tr]=Tercihler
+Name[uk]=Налаштування
+Name[zh_CN]=首选项
+OnlyShowIn=Unity;

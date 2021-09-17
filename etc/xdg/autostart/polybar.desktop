@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=polybar
+GenericName=polybar
+Comment=polybar
+Categories=Utility;
+Keywords=compositor;composite manager;window effects;transparency;opacity;
+TryExec=~/.config/polybar/launch.sh
+Exec=~/.config/polybar/launch.sh
