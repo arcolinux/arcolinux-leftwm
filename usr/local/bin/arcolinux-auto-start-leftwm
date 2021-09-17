@@ -1,0 +1,2 @@
+#!/bin/bash
+sh ~/.config/leftwm/autostart.sh

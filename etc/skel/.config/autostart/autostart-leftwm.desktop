@@ -6,5 +6,5 @@ GenericName=autostart leftwm
 Comment=autostart leftwm
 Categories=Utility;
 Keywords=autostart
-TryExec=~/.config/leftwm/autostart.sh
-Exec=~/.config/leftwm/autostart.sh
+TryExec=/usr/local/bin/arcolinux-autostart-leftwm
+Exec=/usr/local/bin/arcolinux-autostart-leftwm
