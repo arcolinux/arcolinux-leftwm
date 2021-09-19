@@ -188,9 +188,9 @@ relative_directory = "smooth/"
 
 [[repos.themes]]
 name = "dracula"
-repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-dracula/"
 commit = "*"
 version = "0.0.1"
 leftwm_versions = "*"
 current = true
-relative_directory = "smooth/"
+relative_directory = "dracula/"
