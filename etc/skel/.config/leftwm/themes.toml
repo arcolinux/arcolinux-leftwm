@@ -20,7 +20,6 @@ current = false
 
 [[repos.themes]]
 name = "Soothe"
-directory = "/home/erik/.config/leftwm/themes/Soothe"
 repository = "https://github.com/b4skyx/leftwm-soothe/"
 commit = "*"
 version = "0.0.1"
@@ -62,7 +61,6 @@ current = false
 
 [[repos.themes]]
 name = "Ground Zero"
-directory = "/home/erik/.config/leftwm/themes/Ground Zero"
 repository = "https://github.com/Qwart376/Ground-Zero/"
 commit = "*"
 version = "0.0.1"
@@ -71,7 +69,6 @@ current = false
 
 [[repos.themes]]
 name = "Red Moon"
-directory = "/home/erik/.config/leftwm/themes/Red Moon"
 repository = "https://github.com/Qwart376/Red-Moon"
 commit = "*"
 version = "0.0.1"
@@ -80,7 +77,6 @@ current = false
 
 [[repos.themes]]
 name = "Blue Coffee"
-directory = "/home/erik/.config/leftwm/themes/Blue Coffee"
 repository = "https://github.com/Qwart376/Blue-Coffee/"
 commit = "*"
 version = "0.0.1"
@@ -97,7 +93,6 @@ current = false
 
 [[repos.themes]]
 name = "Bumblebee"
-directory = "/home/erik/.config/leftwm/themes/Bumblebee"
 repository = "https://github.com/mfdorst/leftwm-bumblebee/"
 commit = "*"
 version = "0.0.1"
@@ -106,7 +101,6 @@ current = false
 
 [[repos.themes]]
 name = "Changed Sunset"
-directory = "/home/erik/.config/leftwm/themes/Changed Sunset"
 repository = "https://github.com/Syudagye/changed-sunset"
 commit = "*"
 version = "0.0.1"
@@ -127,63 +121,54 @@ name = "LOCAL"
 
 [[repos.themes]]
 name = "orangeforest"
-directory = "/home/erik/.config/leftwm/themes/orangeforest"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "leftwm-theme-garden"
-directory = "/home/erik/.config/leftwm/themes/leftwm-theme-garden"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "forest"
-directory = "/home/erik/.config/leftwm/themes/forest"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "windowsxp"
-directory = "/home/erik/.config/leftwm/themes/windowsxp"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "tng"
-directory = "/home/erik/.config/leftwm/themes/tng"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "coffee"
-directory = "/home/erik/.config/leftwm/themes/coffee"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "ArcoLinux-Candy"
-directory = "/home/erik/.config/leftwm/themes/ArcoLinux-Candy"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "screenshots"
-directory = "/home/erik/.config/leftwm/themes/screenshots"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
 
 [[repos.themes]]
 name = "dracula-rounded"
-directory = "/home/erik/.config/leftwm/themes/dracula-rounded"
 version = "0.0.0"
 leftwm_versions = "*"
 current = false
@@ -194,7 +179,15 @@ name = "arcolinux"
 
 [[repos.themes]]
 name = "smooth"
-directory = "/home/erik/.config/leftwm/themes/smooth"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = "*"
+current = true
+relative_directory = "smooth/"
+
+[[repos.themes]]
+name = "dracula"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
 version = "0.0.1"
