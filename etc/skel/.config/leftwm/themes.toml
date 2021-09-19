@@ -4,7 +4,6 @@ name = "community"
 
 [[repos.themes]]
 name = "Orange Forest"
-directory = "/home/erik/.config/leftwm/themes/Orange Forest"
 repository = "https://github.com/PVautour/leftwm-theme-orange-forest/"
 commit = "*"
 version = "0.0.1"
@@ -13,7 +12,6 @@ current = false
 
 [[repos.themes]]
 name = "Coffee"
-directory = "/home/erik/.config/leftwm/themes/Coffee"
 repository = "https://github.com/lex148/leftwm-coffee/"
 commit = "*"
 version = "0.0.1"
@@ -32,7 +30,6 @@ relative_directory = "theme/"
 
 [[repos.themes]]
 name = "TNG"
-directory = "/home/erik/.config/leftwm/themes/TNG"
 repository = "https://github.com/lex148/leftwm-tng/"
 commit = "*"
 version = "0.0.1"
@@ -41,7 +38,6 @@ current = false
 
 [[repos.themes]]
 name = "Windows XP"
-directory = "/home/erik/.config/leftwm/themes/Windows XP"
 repository = "https://github.com/lex148/leftwm-windowsxp/"
 commit = "*"
 version = "0.0.1"
@@ -50,16 +46,14 @@ current = false
 
 [[repos.themes]]
 name = "Dracula Rounded"
-directory = "/home/erik/.config/leftwm/themes/Dracula Rounded"
 repository = "https://github.com/AethanFoot/leftwm-theme-dracula-rounded/"
 commit = "*"
 version = "0.0.2"
 leftwm_versions = "^0.2.7"
-current = true
+current = false
 
 [[repos.themes]]
 name = "Forest"
-directory = "/home/erik/.config/leftwm/themes/Forest"
 repository = "https://github.com/lex148/forest/"
 commit = "*"
 version = "0.0.1"
@@ -95,7 +89,6 @@ current = false
 
 [[repos.themes]]
 name = "sunflower"
-directory = "/home/erik/.config/leftwm/themes/sunflower"
 repository = "https://github.com/mautamu/leftwm-sunflower/"
 commit = "*"
 version = "0.1.0"
@@ -122,7 +115,6 @@ current = false
 
 [[repos.themes]]
 name = "Garden"
-directory = "/home/erik/.config/leftwm/themes/Garden"
 repository = "https://github.com/taylor85345/leftwm-theme-garden"
 commit = "*"
 version = "0.0.3"
@@ -132,4 +124,80 @@ current = false
 [[repos]]
 url = "localhost"
 name = "LOCAL"
-themes = []
+
+[[repos.themes]]
+name = "orangeforest"
+directory = "/home/erik/.config/leftwm/themes/orangeforest"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "leftwm-theme-garden"
+directory = "/home/erik/.config/leftwm/themes/leftwm-theme-garden"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "forest"
+directory = "/home/erik/.config/leftwm/themes/forest"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "windowsxp"
+directory = "/home/erik/.config/leftwm/themes/windowsxp"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "tng"
+directory = "/home/erik/.config/leftwm/themes/tng"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "coffee"
+directory = "/home/erik/.config/leftwm/themes/coffee"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "ArcoLinux-Candy"
+directory = "/home/erik/.config/leftwm/themes/ArcoLinux-Candy"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "screenshots"
+directory = "/home/erik/.config/leftwm/themes/screenshots"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "dracula-rounded"
+directory = "/home/erik/.config/leftwm/themes/dracula-rounded"
+version = "0.0.0"
+leftwm_versions = "*"
+current = false
+
+[[repos]]
+url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/master/known.toml"
+name = "arcolinux"
+
+[[repos.themes]]
+name = "smooth"
+directory = "/home/erik/.config/leftwm/themes/smooth"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = "*"
+current = true
+relative_directory = "smooth/"
