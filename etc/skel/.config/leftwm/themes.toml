@@ -183,6 +183,7 @@ repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
 version = "0.0.1"
 leftwm_versions = "*"
+current = false
 
 [[repos.themes]]
 name = "dracula"
@@ -190,4 +191,4 @@ repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-dracula/"
 commit = "*"
 version = "0.0.1"
 leftwm_versions = "*"
-current = true
+current = false
