@@ -159,7 +159,7 @@ current = false
 name = "ArcoLinux-Candy"
 version = "0.0.0"
 leftwm_versions = "*"
-current = false
+current = true
 
 [[repos.themes]]
 name = "screenshots"
@@ -183,8 +183,6 @@ repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
 version = "0.0.1"
 leftwm_versions = "*"
-current = true
-relative_directory = "smooth/"
 
 [[repos.themes]]
 name = "dracula"
@@ -193,4 +191,3 @@ commit = "*"
 version = "0.0.1"
 leftwm_versions = "*"
 current = true
-relative_directory = "dracula/"
