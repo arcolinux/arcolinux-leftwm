@@ -72,7 +72,7 @@ super + c
 
 #Htop
 super + h
-    urxvt 'htop task manager' -e htop
+    urxvt -e htop
 
 #arcolinux-logout
 super + x

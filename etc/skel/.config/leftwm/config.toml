@@ -1,7 +1,13 @@
+#possible keybindings
+#https://github.com/leftwm/leftwm/blob/master/src/utils/xkeysym_lookup.rs
+
+#Mod4 = Super key
 modkey = "Mod4"
-mousekey = "Mod4"
+#mousekey = "Mod4"
 workspaces = []
 tags = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+#tags = ["www", "edit", "gimp", "inkscape", "meld", "video","vm", "files", "music"]
+
 layouts = ["MainAndVertStack", "MainAndHorizontalStack", "MainAndDeck", "GridHorizontal", "EvenHorizontal", "EvenVertical", "Fibonacci", "CenterMain", "CenterMainBalanced", "Monocle", "RightWiderLeftStack", "LeftWiderRightStack"]
 scratchpad = []
 disable_current_tag_swap = false
@@ -22,20 +28,32 @@ key = "Return"
 
 [[keybind]]
 command = "Execute"
-value = "alacritty"
+value = "leftwm-command ToggleFullScreen"
+modifier = ["modkey"]
+key = "f"
+
+[[keybind]]
+command = "Execute"
+value = "urxvt"
 modifier = ["modkey"]
 key = "t"
 
 [[keybind]]
 command = "Execute"
 value = "alacritty"
-modifier = ["Contol", "Alt"]
+modifier = ["Control", "Alt"]
 key = "t"
 
 [[keybind]]
 command = "Execute"
 value = "alacritty"
 modifier = ["Control", "Alt"]
+key = "Return"
+
+[[keybind]]
+command = "Execute"
+value = "alacritty"
+modifier = ["modkey"]
 key = "Return"
 
 [[keybind]]
@@ -74,11 +92,6 @@ modifier = ["modkey", "Shift"]
 key = "j"
 
 [[keybind]]
-command = "MoveWindowTop"
-modifier = ["modkey"]
-key = "Return"
-
-[[keybind]]
 command = "FocusWindowUp"
 modifier = ["modkey"]
 key = "k"
@@ -90,13 +103,13 @@ key = "j"
 
 [[keybind]]
 command = "NextLayout"
-modifier = ["modkey", "Control"]
-key = "k"
+modifier = ["modkey"]
+key = "space"
 
 [[keybind]]
 command = "PreviousLayout"
-modifier = ["modkey", "Control"]
-key = "j"
+modifier = ["modkey", "Shift"]
+key = "space"
 
 [[keybind]]
 command = "FocusWorkspaceNext"
