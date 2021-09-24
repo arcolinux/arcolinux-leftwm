@@ -122,26 +122,6 @@ modifier = ["modkey"]
 key = "h"
 
 [[keybind]]
-command = "MoveWindowUp"
-modifier = ["modkey", "Shift"]
-key = "Up"
-
-[[keybind]]
-command = "MoveWindowDown"
-modifier = ["modkey", "Shift"]
-key = "Down"
-
-[[keybind]]
-command = "FocusWindowUp"
-modifier = ["modkey"]
-key = "Up"
-
-[[keybind]]
-command = "FocusWindowDown"
-modifier = ["modkey"]
-key = "Down"
-
-[[keybind]]
 command = "NextLayout"
 modifier = ["modkey", "Control"]
 key = "Up"
@@ -152,14 +132,64 @@ modifier = ["modkey", "Control"]
 key = "Down"
 
 [[keybind]]
-command = "FocusWorkspaceNext"
+command = "FocusNextTag"
+modifier = ["modkey"]
+key = "Down"
+
+[[keybind]]
+command = "FocusPreviousTag"
+modifier = ["modkey"]
+key = "Up"
+
+[[keybind]]
+command = "FocusPreviousTag"
+modifier = ["modkey"]
+key = "Left"
+
+[[keybind]]
+command = "FocusNextTag"
 modifier = ["modkey"]
 key = "Right"
 
 [[keybind]]
-command = "FocusWorkspacePrevious"
-modifier = ["modkey"]
+command = "FocusPreviousTag"
+modifier = ["Control","Alt"]
 key = "Left"
+
+[[keybind]]
+command = "FocusNextTag"
+modifier = ["Control", "Alt"]
+key = "Right"
+
+[[keybind]]
+command = "FocusPreviousTag"
+modifier = ["Control","Alt"]
+key = "Up"
+
+[[keybind]]
+command = "FocusNextTag"
+modifier = ["Control", "Alt"]
+key = "Down"
+
+[[keybind]]
+command = "FocusNextTag"
+modifier = ["modkey"]
+key = "Tab"
+
+[[keybind]]
+command = "FocusPreviousTag"
+modifier = ["modkey", "Shift"]
+key = "Tab"
+
+[[keybind]]
+command = "FocusNextTag"
+modifier = ["Alt"]
+key = "Tab"
+
+[[keybind]]
+command = "FocusPreviousTag"
+modifier = ["Alt", "Shift"]
+key = "Tab"
 
 [[keybind]]
 command = "GotoTag"
