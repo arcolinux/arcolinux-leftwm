@@ -4,7 +4,7 @@ SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 
 #set background
 if [ -x "$(command -v feh)" ]; then
-  feh --bg-scale "$SCRIPTPATH"/down.jpg
+  feh --bg-scale $SCRIPTPATH/down.jpg
 fi
 
 echo "UnloadTheme" > $XDG_RUNTIME_DIR/leftwm/commands.pipe
@@ -12,4 +12,5 @@ echo "UnloadTheme" > $XDG_RUNTIME_DIR/leftwm/commands.pipe
 pkill compton
 pkill picom
 pkill polybar
+pkill conky
 pkill dunst
