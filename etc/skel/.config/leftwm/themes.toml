@@ -120,58 +120,10 @@ url = "localhost"
 name = "LOCAL"
 
 [[repos.themes]]
-name = "orangeforest"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "leftwm-theme-garden"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "forest"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "windowsxp"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "tng"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "coffee"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
 name = "ArcoLinux-Candy"
 version = "0.0.0"
 leftwm_versions = "*"
 current = true
-
-[[repos.themes]]
-name = "screenshots"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
-name = "dracula-rounded"
-version = "0.0.0"
-leftwm_versions = "*"
-current = false
 
 [[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/master/known.toml"
