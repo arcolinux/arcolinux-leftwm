@@ -22,6 +22,12 @@ key = "d"
 
 [[keybind]]
 command = "Execute"
+value = "arcolinux-logout"
+modifier = ["modkey"]
+key = "x"
+
+[[keybind]]
+command = "Execute"
 value = "thunar"
 modifier = ["modkey", "Shift"]
 key = "Return"

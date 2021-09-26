@@ -74,10 +74,6 @@ super + c
 super + h
     urxvt -e htop
 
-#arcolinux-logout
-super + x
-    arcolinux-logout
-
 #Rofi theme selector
 super + r
     rofi-theme-selector
