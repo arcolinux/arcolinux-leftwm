@@ -136,4 +136,3 @@ commit = "*"
 version = "1.1.2"
 leftwm_versions = "*"
 current = false
-relative_directory = "theme/"
