@@ -68,7 +68,7 @@ minimum_height = 240,
 maximum_width = 240,
 
 gap_x = 25,--## left | right
-gap_y = 60,--## up | down
+gap_y = 50,--## up | down
 
 alignment = 'top_left',
 --######################  End Window Settings  ###
