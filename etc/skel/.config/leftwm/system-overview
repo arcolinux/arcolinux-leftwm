@@ -172,12 +172,12 @@ ${color5}${alignc}S Y S T E M    I N F O${color}
 ${color5}${hr}${color}
 ${color5}${execi 6000 lsb_release -d | grep 'Descr'|awk {'print $2 " " $3" " $4" " $5'}}${alignr}${execi 6000 lsb_release -a | grep 'Release'|awk {'print $2""$3""$4""$5'}}${color}
 ${color5}${hr}${color}
-${color5}Host:${alignr}${color2}${nodename}${color}
+#${color5}Host:${alignr}${color2}${nodename}${color}
 ${color5}Kernel:${color2}${alignr}$kernel${color}
-${color5}Uptime:${color2}${alignr}${uptime}${color}
+#${color5}Uptime:${color2}${alignr}${uptime}${color}
 #${color5}Utc:${color2}${alignr}${utime %H:%M}${color}
-${color5}Time:${color2}${alignr}${time %H:%M}${color}
-${color5}Temp:${color2}${alignr}${acpitemp} C${color}
+#${color5}Time:${color2}${alignr}${time %H:%M}${color}
+#${color5}Temp:${color2}${alignr}${acpitemp} C${color}
 
 ${color5}${goto 60}Used${alignr}Size${color}
 ${color5}Disk${goto 60}${color2}${fs_used /}${alignr}${fs_size /}${color}
