@@ -304,3 +304,9 @@ command = "MoveToTag"
 value = "9"
 modifier = ["modkey", "Shift"]
 key = "ccedilla"
+
+[[keybind]]
+command = "Execute"
+value = "killall conky"
+modifier = ["modkey"]
+key = "c"
