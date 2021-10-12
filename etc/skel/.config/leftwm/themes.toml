@@ -116,22 +116,28 @@ leftwm_versions = "*"
 current = false
 
 [[repos]]
-url = "localhost"
-name = "LOCAL"
-
-[[repos.themes]]
-name = "candy"
-version = "1.1.2"
-leftwm_versions = "*"
-current = true
-
-[[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/master/known.toml"
 name = "arcolinux"
 
 [[repos.themes]]
+name = "candy"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-candy/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "eden"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
 version = "1.1.2"
 leftwm_versions = "*"
