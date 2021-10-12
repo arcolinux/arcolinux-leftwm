@@ -120,14 +120,6 @@ url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/maste
 name = "arcolinux"
 
 [[repos.themes]]
-name = "candy"
-repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-candy/"
-commit = "*"
-version = "1.1.2"
-leftwm_versions = "*"
-current = false
-
-[[repos.themes]]
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
