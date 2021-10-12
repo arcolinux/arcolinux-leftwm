@@ -115,6 +115,14 @@ version = "0.0.3"
 leftwm_versions = "*"
 current = false
 
+[[repos.themes]]
+name = "Epitaph"
+repository = "https://github.com/VentGrey/Epitaph"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = "*"
+current = false
+
 [[repos]]
 url = "localhost"
 name = "LOCAL"
