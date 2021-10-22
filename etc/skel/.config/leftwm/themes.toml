@@ -152,3 +152,34 @@ commit = "*"
 version = "1.1.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "pi"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-pi/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "matrix"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-matrix/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "parker"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "space"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-space/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
