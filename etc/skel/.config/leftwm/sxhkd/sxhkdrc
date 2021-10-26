@@ -318,6 +318,10 @@ ctrl + Print
 ctrl + shift + Print
      gnome-screenshot -i
 
+#Flameshot
+super + ctrl + Print
+    flameshot launcher
+
 #################################################################
 #     MULTIMEDIA KEYS
 #################################################################
