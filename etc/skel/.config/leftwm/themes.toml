@@ -123,6 +123,14 @@ version = "0.0.1"
 leftwm_versions = "*"
 current = false
 
+[[repos.themes]]
+name = "Ocean-night"
+repository = "https://github.com/TheRoniOne/ocean-night"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = "*"
+current = false
+
 [[repos]]
 url = "localhost"
 name = "LOCAL"
