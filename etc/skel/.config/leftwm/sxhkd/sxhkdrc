@@ -320,7 +320,7 @@ ctrl + shift + Print
 
 #Flameshot
 super + ctrl + Print
-    flameshot launcher
+    flameshot gui
 
 #################################################################
 #     MULTIMEDIA KEYS

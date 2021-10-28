@@ -137,7 +137,7 @@ name = "LOCAL"
 
 [[repos.themes]]
 name = "candy"
-version = "2.1.6"
+version = "2.3.1"
 leftwm_versions = "*"
 current = true
 
@@ -149,7 +149,7 @@ name = "arcolinux"
 name = "docky"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-docky/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -157,7 +157,7 @@ current = false
 name = "eden"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -165,7 +165,7 @@ current = false
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -173,7 +173,7 @@ current = false
 name = "matrix"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-matrix/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -181,7 +181,7 @@ current = false
 name = "parker"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -189,7 +189,7 @@ current = false
 name = "pi"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-pi/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -197,7 +197,7 @@ current = false
 name = "shades"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-shades/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -205,7 +205,7 @@ current = false
 name = "space"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-space/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -213,7 +213,7 @@ current = false
 name = "starwars"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-starwars/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
 
@@ -221,6 +221,14 @@ current = false
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "forest"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-forest/"
+commit = "*"
+version = "2.3.1"
 leftwm_versions = "*"
 current = false
