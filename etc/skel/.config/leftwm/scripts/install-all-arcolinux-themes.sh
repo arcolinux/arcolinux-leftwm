@@ -14,26 +14,29 @@
 #
 ###############################################################################
 
-
 echo
 echo "###############################################################################"
-echo "Uninstalling themes"
+echo "Installing themes"
 echo "###############################################################################"
 echo
 
 leftwm-theme apply candy
 
-leftwm-theme uninstall docky
-leftwm-theme uninstall forest
-leftwm-theme uninstall material
-leftwm-theme uninstall shades
+leftwm-theme install docky
+leftwm-theme install eden
+leftwm-theme install forest
+leftwm-theme install grayblocks
+leftwm-theme install greyblocks
+leftwm-theme install material
+leftwm-theme install matrix
+leftwm-theme install parker
+leftwm-theme install pi
+leftwm-theme install shades
+leftwm-theme install smooth
+leftwm-theme install space
+leftwm-theme install starwars
 
 leftwm-theme update
-
-leftwm-theme install docky
-leftwm-theme install forest
-leftwm-theme install material
-leftwm-theme install shades
 
 echo "###############################################################################"
 echo "###                                DONE                                    ####"

@@ -239,7 +239,7 @@ repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-grayblocks/"
 commit = "*"
 version = "2.3.1"
 leftwm_versions = "*"
-current = true
+current = false
 
 [[repos.themes]]
 name = "greyblocks"
