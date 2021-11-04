@@ -274,55 +274,55 @@ modifier = ["modkey"]
 key = "9"
 
 [[keybind]]
-command = "MoveToTag"
-value = "1"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 1\" \"SendWorkspaceToTag 0 0\""
 modifier = ["modkey", "Shift"]
 key = "1"
 
 [[keybind]]
-command = "MoveToTag"
-value = "2"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 2\" \"SendWorkspaceToTag 0 1\""
 modifier = ["modkey", "Shift"]
 key = "2"
 
 [[keybind]]
-command = "MoveToTag"
-value = "3"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 3\" \"SendWorkspaceToTag 0 2\""
 modifier = ["modkey", "Shift"]
 key = "3"
 
 [[keybind]]
-command = "MoveToTag"
-value = "4"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 4\" \"SendWorkspaceToTag 0 3\""
 modifier = ["modkey", "Shift"]
 key = "4"
 
 [[keybind]]
-command = "MoveToTag"
-value = "5"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 5\" \"SendWorkspaceToTag 0 4\""
 modifier = ["modkey", "Shift"]
 key = "5"
 
 [[keybind]]
-command = "MoveToTag"
-value = "6"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 6\" \"SendWorkspaceToTag 0 5\""
 modifier = ["modkey", "Shift"]
 key = "6"
 
 [[keybind]]
-command = "MoveToTag"
-value = "7"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 7\" \"SendWorkspaceToTag 0 6\""
 modifier = ["modkey", "Shift"]
 key = "7"
 
 [[keybind]]
-command = "MoveToTag"
-value = "8"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 8\" \"SendWorkspaceToTag 0 7\""
 modifier = ["modkey", "Shift"]
 key = "8"
 
 [[keybind]]
-command = "MoveToTag"
-value = "9"
+command = "Execute"
+value = "leftwm-command \"SendWindowToTag 9\" \"SendWorkspaceToTag 0 8\""
 modifier = ["modkey", "Shift"]
 key = "9"
