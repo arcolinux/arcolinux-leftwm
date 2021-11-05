@@ -28,6 +28,7 @@ leftwm-theme uninstall eden
 leftwm-theme uninstall forest
 leftwm-theme uninstall grayblocks
 leftwm-theme uninstall greyblocks
+leftwm-theme uninstall halo
 leftwm-theme uninstall material
 leftwm-theme uninstall matrix
 leftwm-theme uninstall parker

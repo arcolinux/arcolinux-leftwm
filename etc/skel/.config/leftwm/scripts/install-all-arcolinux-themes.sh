@@ -27,6 +27,7 @@ leftwm-theme install eden
 leftwm-theme install forest
 leftwm-theme install grayblocks
 leftwm-theme install greyblocks
+leftwm-theme install halo
 leftwm-theme install material
 leftwm-theme install matrix
 leftwm-theme install parker
