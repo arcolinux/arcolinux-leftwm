@@ -30,6 +30,7 @@ leftwm-theme install greyblocks
 leftwm-theme install halo
 leftwm-theme install material
 leftwm-theme install matrix
+leftwm-theme install mesh
 leftwm-theme install parker
 leftwm-theme install pi
 leftwm-theme install shades

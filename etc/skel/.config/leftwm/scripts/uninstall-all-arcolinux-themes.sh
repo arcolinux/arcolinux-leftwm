@@ -31,6 +31,7 @@ leftwm-theme uninstall greyblocks
 leftwm-theme uninstall halo
 leftwm-theme uninstall material
 leftwm-theme uninstall matrix
+leftwm-theme uninstall mesh
 leftwm-theme uninstall parker
 leftwm-theme uninstall pi
 leftwm-theme uninstall shades
