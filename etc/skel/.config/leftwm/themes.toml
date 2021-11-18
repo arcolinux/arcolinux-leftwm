@@ -281,4 +281,4 @@ repository = "https://github.com/PeterDauwe/doublebar/"
 commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
-current = true
+current = false
