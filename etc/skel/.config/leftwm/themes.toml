@@ -141,12 +141,6 @@ version = "2.3.2"
 leftwm_versions = "*"
 current = true
 
-[[repos.themes]]
-name = "twist"
-version = "2.3.2"
-leftwm_versions = "*"
-current = false
-
 [[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes/master/known.toml"
 name = "arcolinux"
@@ -270,6 +264,14 @@ commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "db"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+current = true
 
 [[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes-community/main/known.toml"
