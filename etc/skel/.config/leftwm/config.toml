@@ -180,12 +180,14 @@ modifier = ["modkey"]
 key = "Up"
 
 [[keybind]]
-command = "FocusPreviousTag"
+command = "Execute"
+value = "leftwm-command SwapScreens"
 modifier = ["modkey"]
 key = "Left"
 
 [[keybind]]
-command = "FocusNextTag"
+command = "Execute"
+value = "leftwm-command SwapScreens"
 modifier = ["modkey"]
 key = "Right"
 
