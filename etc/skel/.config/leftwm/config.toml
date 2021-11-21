@@ -192,6 +192,16 @@ modifier = ["modkey"]
 key = "Right"
 
 [[keybind]]
+command = "MoveWindowToNextWorkspace"
+modifier = ["modkey","Shift"]
+key = "Left"
+
+[[keybind]]
+command = "MoveWindowToNextWorkspace"
+modifier = ["modkey","Shift"]
+key = "Right"
+
+[[keybind]]
 command = "FocusPreviousTag"
 modifier = ["Control","Alt"]
 key = "Left"
