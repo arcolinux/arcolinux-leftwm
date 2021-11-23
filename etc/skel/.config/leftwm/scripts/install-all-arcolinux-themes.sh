@@ -24,6 +24,7 @@ leftwm-theme apply candy
 
 leftwm-theme install db
 leftwm-theme install docky
+leftwm-theme install doublebar
 leftwm-theme install eden
 leftwm-theme install forest
 leftwm-theme install grayblocks
