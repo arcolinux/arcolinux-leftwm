@@ -14,7 +14,6 @@
 #
 ###############################################################################
 
-
 echo
 echo "###############################################################################"
 echo "Installing themes"
@@ -23,7 +22,9 @@ echo
 
 leftwm-theme apply candy
 
+leftwm-theme uninstall db
 leftwm-theme uninstall docky
+leftwm-theme uninstall doublebar
 leftwm-theme uninstall eden
 leftwm-theme uninstall forest
 leftwm-theme uninstall grayblocks
