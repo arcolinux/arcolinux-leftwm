@@ -284,3 +284,11 @@ commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "db-color-dev"
+repository = "https://github.com/PeterDauwe/db-color-dev"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+current = false
