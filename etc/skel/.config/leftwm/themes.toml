@@ -292,3 +292,11 @@ commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "db-scifi"
+repository = "https://github.com/PeterDauwe/db-scifi"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+current = false
