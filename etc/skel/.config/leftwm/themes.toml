@@ -131,6 +131,14 @@ version = "0.0.1"
 leftwm_versions = "*"
 current = false
 
+[[repos.themes]]
+name = "Flamingo"
+repository = "https://github.com/necaris/leftwm-theme-flamingo"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = ">0.2.7"
+current = false
+
 [[repos]]
 url = "localhost"
 name = "LOCAL"
@@ -268,6 +276,14 @@ current = false
 [[repos.themes]]
 name = "db"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+current = false
+
+[[repos.themes]]
+name = "db-scifi-star"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-scifi-star/"
 commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
