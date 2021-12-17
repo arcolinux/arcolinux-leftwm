@@ -23,6 +23,9 @@ echo
 leftwm-theme apply candy
 
 leftwm-theme install db
+leftwm-theme install db-color-dev
+leftwm-theme install db-scifi
+leftwm-theme install db-scifi-star
 leftwm-theme install docky
 leftwm-theme install doublebar
 leftwm-theme install eden
@@ -46,4 +49,3 @@ echo "##########################################################################
 echo "###                                DONE                                    ####"
 echo "###############################################################################"
 echo
-
