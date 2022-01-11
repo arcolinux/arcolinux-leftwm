@@ -22,23 +22,9 @@ echo
 
 leftwm-theme apply candy
 
-leftwm-theme install db-scifi
-leftwm-theme install db-scifi-star
-leftwm-theme install docky
-leftwm-theme install eden
-leftwm-theme install forest
-leftwm-theme install grayblocks
-leftwm-theme install greyblocks
-leftwm-theme install halo
-leftwm-theme install material
-leftwm-theme install matrix
-leftwm-theme install mesh
-leftwm-theme install parker
-leftwm-theme install pi
-leftwm-theme install shades
-leftwm-theme install smooth
-leftwm-theme install space
-leftwm-theme install starwars
+leftwm-theme uninstall doublebar
+leftwm-theme uninstall db-scifi
+leftwm-theme uninstall db-color-dev
 
 leftwm-theme update
 
@@ -46,3 +32,4 @@ echo "##########################################################################
 echo "###                                DONE                                    ####"
 echo "###############################################################################"
 echo
+
