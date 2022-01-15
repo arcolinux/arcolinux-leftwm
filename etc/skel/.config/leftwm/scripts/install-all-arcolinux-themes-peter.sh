@@ -25,6 +25,7 @@ leftwm-theme apply candy
 leftwm-theme install doublebar
 leftwm-theme install db-color-dev
 leftwm-theme install db-scifi
+leftwm-theme install db-labels
 
 leftwm-theme update
 

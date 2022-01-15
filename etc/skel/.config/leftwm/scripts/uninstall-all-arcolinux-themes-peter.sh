@@ -25,6 +25,7 @@ leftwm-theme apply candy
 leftwm-theme uninstall doublebar
 leftwm-theme uninstall db-scifi
 leftwm-theme uninstall db-color-dev
+leftwm-theme uninstall db-labels
 
 leftwm-theme update
 
