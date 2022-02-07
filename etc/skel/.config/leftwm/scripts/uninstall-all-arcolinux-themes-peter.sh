@@ -26,6 +26,8 @@ leftwm-theme uninstall doublebar
 leftwm-theme uninstall db-scifi
 leftwm-theme uninstall db-color-dev
 leftwm-theme uninstall db-labels
+leftwm-theme uninstall db-comic
+leftwm-theme uninstall db-horror
 
 leftwm-theme update
 
