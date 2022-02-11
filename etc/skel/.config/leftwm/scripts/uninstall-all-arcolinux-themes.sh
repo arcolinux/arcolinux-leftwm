@@ -23,6 +23,7 @@ echo
 leftwm-theme apply candy
 
 leftwm-theme uninstall db
+leftwm-theme uninstall db-nemesis
 leftwm-theme uninstall db-scifi-star
 leftwm-theme uninstall docky
 leftwm-theme uninstall eden
@@ -46,4 +47,3 @@ echo "##########################################################################
 echo "###                                DONE                                    ####"
 echo "###############################################################################"
 echo
-

@@ -24,9 +24,17 @@ leftwm-theme apply candy
 sleep 5
 leftwm-theme apply db
 sleep 5
+leftwm-theme apply db-color-dev
+sleep 5
+leftwm-theme apply db-scifi
+sleep 5
 leftwm-theme apply db-scifi-star
 sleep 5
+leftwm-theme apply db-nemesis
+sleep 5
 leftwm-theme apply docky
+sleep 5
+leftwm-theme apply doublebar
 sleep 5
 leftwm-theme apply eden
 sleep 5
@@ -55,12 +63,7 @@ sleep 5
 leftwm-theme apply space
 sleep 5
 leftwm-theme apply starwars
-sleep 5
-leftwm-theme apply doublebar
-sleep 5
-leftwm-theme apply db-color-dev
-sleep 5
-leftwm-theme apply db-scifi
+
 
 echo "###############################################################################"
 echo "###                                DONE                                    ####"
