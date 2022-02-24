@@ -200,15 +200,13 @@ ${color5}[Alt]+F3${alignr}${color2}Alt Menu${color}
 ${color5}${hr}${color}
 ${color5}[S]+Enter${alignr}${color2}Terminal${color}
 ${color5}[S]+[Shift]+Enter${alignr}${color2}File Manager${color}
-${color5}[Ctrl]+[Alt]+V${alignr}${color2}Vivaldi${color}
-${color5}[S]+F2${alignr}${color2}Editor${color}
-${color5}[S]+F6${alignr}${color2}Media Player${color}
 ${color5}[S]+[Space]${alignr}${color2}Change Layout${color}
 ${color5}[Ctrl]+[Shift]+Esc${alignr}${color2}Task Manager${color}
 ${color5}[Ctrl]+[Alt]+U${alignr}${color2}Volume Control${color}
 ${color5}[PrtSc]${alignr}${color2}Screenshot${color}
 ${color5}[S]+[Shift]+R${alignr}${color2}Restart leftwm${color}
 ${color5}${hr}${color}
+${color5}[S]+Q${alignr}${color2}Stop application${color}
 ${color5}[S]+[Shift]+Q${alignr}${color2}Stop application${color}
 ${color5}[S]+x${alignr}${color2}Exit${color}
 ${color5}${hr}${color}
