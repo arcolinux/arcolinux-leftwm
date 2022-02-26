@@ -27,7 +27,7 @@ leftwm-theme uninstall db-scifi --noconfirm
 leftwm-theme uninstall db-color-dev --noconfirm
 leftwm-theme uninstall db-labels --noconfirm
 leftwm-theme uninstall db-comic --noconfirm
-leftwm-theme uninstall db-horror --noconfirm
+leftwm-theme uninstall sb-horror --noconfirm
 
 leftwm-theme update
 
