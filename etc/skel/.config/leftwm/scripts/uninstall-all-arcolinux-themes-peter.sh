@@ -22,12 +22,12 @@ echo
 
 leftwm-theme apply candy
 
-leftwm-theme uninstall doublebar
-leftwm-theme uninstall db-scifi
-leftwm-theme uninstall db-color-dev
-leftwm-theme uninstall db-labels
-leftwm-theme uninstall db-comic
-leftwm-theme uninstall db-horror
+leftwm-theme uninstall doublebar --noconfirm
+leftwm-theme uninstall db-scifi --noconfirm
+leftwm-theme uninstall db-color-dev --noconfirm
+leftwm-theme uninstall db-labels --noconfirm
+leftwm-theme uninstall db-comic --noconfirm
+leftwm-theme uninstall db-horror --noconfirm
 
 leftwm-theme update
 

@@ -22,24 +22,24 @@ echo
 
 leftwm-theme apply candy
 
-leftwm-theme uninstall db
-leftwm-theme uninstall db-nemesis
-leftwm-theme uninstall db-scifi-star
-leftwm-theme uninstall docky
-leftwm-theme uninstall eden
-leftwm-theme uninstall forest
-leftwm-theme uninstall grayblocks
-leftwm-theme uninstall greyblocks
-leftwm-theme uninstall halo
-leftwm-theme uninstall material
-leftwm-theme uninstall matrix
-leftwm-theme uninstall mesh
-leftwm-theme uninstall parker
-leftwm-theme uninstall pi
-leftwm-theme uninstall shades
-leftwm-theme uninstall smooth
-leftwm-theme uninstall space
-leftwm-theme uninstall starwars
+leftwm-theme uninstall db --noconfirm
+leftwm-theme uninstall db-nemesis --noconfirm
+leftwm-theme uninstall db-scifi-star --noconfirm
+leftwm-theme uninstall docky --noconfirm
+leftwm-theme uninstall eden --noconfirm
+leftwm-theme uninstall forest --noconfirm
+leftwm-theme uninstall grayblocks --noconfirm
+leftwm-theme uninstall greyblocks --noconfirm
+leftwm-theme uninstall halo --noconfirm
+leftwm-theme uninstall material --noconfirm
+leftwm-theme uninstall matrix --noconfirm
+leftwm-theme uninstall mesh --noconfirm
+leftwm-theme uninstall parker --noconfirm
+leftwm-theme uninstall pi --noconfirm
+leftwm-theme uninstall shades --noconfirm
+leftwm-theme uninstall smooth --noconfirm
+leftwm-theme uninstall space --noconfirm
+leftwm-theme uninstall starwars --noconfirm
 
 leftwm-theme update
 
