@@ -22,6 +22,8 @@ echo
 
 leftwm-theme apply candy
 sleep 5
+leftwm-theme apply arise
+sleep 5
 leftwm-theme apply db
 sleep 5
 leftwm-theme apply db-color-dev
