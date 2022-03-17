@@ -22,6 +22,7 @@ echo
 
 leftwm-theme apply candy
 
+leftwm-theme install arise
 leftwm-theme install db
 leftwm-theme install db-nemesis
 leftwm-theme install db-scifi-star

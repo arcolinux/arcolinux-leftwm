@@ -22,6 +22,7 @@ echo
 
 leftwm-theme apply candy
 
+leftwm-theme uninstall arise --noconfirm
 leftwm-theme uninstall db --noconfirm
 leftwm-theme uninstall db-nemesis --noconfirm
 leftwm-theme uninstall db-scifi-star --noconfirm
