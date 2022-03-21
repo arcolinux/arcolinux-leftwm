@@ -416,3 +416,17 @@ commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
 current = false
+
+[[repos.themes]]
+name = "kittycafe-sm"
+repository = "https://github.com/etrigan63/kittycafe-sm"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+
+[[repos.themes]]
+name = "kittycafe-dm"
+repository = "https://github.com/etrigan63/kittycafe-dm"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"

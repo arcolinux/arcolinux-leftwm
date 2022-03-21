@@ -65,7 +65,10 @@ sleep 5
 leftwm-theme apply space
 sleep 5
 leftwm-theme apply starwars
-
+sleep 5
+leftwm-theme apply kittycafe-sm
+sleep 5
+leftwm-theme apply kittycafe-dm
 
 echo "###############################################################################"
 echo "###                                DONE                                    ####"

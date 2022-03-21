@@ -22,12 +22,14 @@ echo
 
 leftwm-theme apply candy
 
-leftwm-theme install doublebar
-leftwm-theme install db-color-dev
-leftwm-theme install db-scifi
-leftwm-theme install db-labels
-leftwm-theme install db-comic
-leftwm-theme install sb-horror
+leftwm-theme uninstall doublebar --noconfirm
+leftwm-theme uninstall db-scifi --noconfirm
+leftwm-theme uninstall db-color-dev --noconfirm
+leftwm-theme uninstall db-labels --noconfirm
+leftwm-theme uninstall db-comic --noconfirm
+leftwm-theme uninstall sb-horror --noconfirm
+leftwm-theme uninstall kittycafe-sm --noconfirm
+leftwm-theme uninstall kittycafe-dm --noconfirm
 
 leftwm-theme update
 
@@ -35,3 +37,4 @@ echo "##########################################################################
 echo "###                                DONE                                    ####"
 echo "###############################################################################"
 echo
+
