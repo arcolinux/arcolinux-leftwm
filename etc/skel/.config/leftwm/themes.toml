@@ -222,7 +222,6 @@ current = false
 
 [[repos.themes]]
 name = "Serika"
-directory = "/home/erik/.config/leftwm/themes/Serika"
 repository = "https://github.com/VuiMuich/leftwm-theme-serika.git"
 commit = "*"
 version = "0.0.1"
@@ -404,6 +403,14 @@ commit = "*"
 version = "2.4.1"
 leftwm_versions = ">=0.3.0"
 current = false
+
+[[repos.themes]]
+name = "fancy"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-fancy/"
+commit = "*"
+version = "2.4.1"
+leftwm_versions = ">=0.3.0"
+current = true
 
 [[repos]]
 url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes-community/main/known.toml"
