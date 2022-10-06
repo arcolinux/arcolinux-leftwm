@@ -234,6 +234,7 @@ repository = "https://github.com/PeterDauwe/doublebar/"
 commit = "*"
 version = "0.0.2"
 leftwm_versions = "^0.3.0"
+current = false
 
 [[repos]]
 url = "localhost"

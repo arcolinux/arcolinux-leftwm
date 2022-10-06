@@ -24,10 +24,15 @@ leftwm-theme apply candy
 
 leftwm-theme uninstall arise --noconfirm
 leftwm-theme uninstall db --noconfirm
+leftwm-theme uninstall db-color-dev --noconfirm
+leftwm-theme uninstall db-comic --noconfirm
 leftwm-theme uninstall db-nemesis --noconfirm
+leftwm-theme uninstall db-scifi --noconfirm
 leftwm-theme uninstall db-scifi-star --noconfirm
 leftwm-theme uninstall docky --noconfirm
+leftwm-theme uninstall doublebar --noconfirm
 leftwm-theme uninstall eden --noconfirm
+leftwm-theme uninstall fancy --noconfirm
 leftwm-theme uninstall forest --noconfirm
 leftwm-theme uninstall grayblocks --noconfirm
 leftwm-theme uninstall greyblocks --noconfirm
@@ -38,6 +43,7 @@ leftwm-theme uninstall mesh --noconfirm
 leftwm-theme uninstall parker --noconfirm
 leftwm-theme uninstall pi --noconfirm
 leftwm-theme uninstall shades --noconfirm
+leftwm-theme uninstall sb-horror --noconfirm
 leftwm-theme uninstall smooth --noconfirm
 leftwm-theme uninstall space --noconfirm
 leftwm-theme uninstall starwars --noconfirm

@@ -22,12 +22,6 @@ echo
 
 leftwm-theme apply candy
 
-leftwm-theme install doublebar
-leftwm-theme install db-color-dev
-leftwm-theme install db-scifi
-leftwm-theme install db-labels
-leftwm-theme install db-comic
-leftwm-theme install sb-horror
 leftwm-theme install kittycafe-sm
 leftwm-theme install kittycafe-dm
 

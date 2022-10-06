@@ -24,10 +24,16 @@ leftwm-theme apply candy
 
 leftwm-theme install arise
 leftwm-theme install db
+leftwm-theme install db-color-dev
+leftwm-theme install db-comic
+leftwm-theme install sb-horror
 leftwm-theme install db-nemesis
+leftwm-theme install db-scifi
 leftwm-theme install db-scifi-star
 leftwm-theme install docky
+leftwm-theme install doublebar
 leftwm-theme install eden
+leftwm-theme install fancy
 leftwm-theme install forest
 leftwm-theme install grayblocks
 leftwm-theme install greyblocks

@@ -40,6 +40,8 @@ leftwm-theme apply doublebar
 sleep 5
 leftwm-theme apply eden
 sleep 5
+leftwm-theme apply fancy
+sleep 5
 leftwm-theme apply forest
 sleep 5
 leftwm-theme apply grayblocks
@@ -57,6 +59,8 @@ sleep 5
 leftwm-theme apply parker
 sleep 5
 leftwm-theme apply pi
+sleep 5
+leftwm-theme apply sb-horror
 sleep 5
 leftwm-theme apply shades
 sleep 5
