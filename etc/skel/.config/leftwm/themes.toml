@@ -173,14 +173,6 @@ leftwm_versions = ">0.2.10, <0.3.0"
 current = false
 
 [[repos.themes]]
-name = "Double Bar"
-repository = "https://github.com/PeterDauwe/doublebar/"
-commit = "*"
-version = "0.0.2"
-leftwm_versions = "^0.3.0"
-current = false
-
-[[repos.themes]]
 name = "SpaceJelly"
 repository = "https://gitlab.com/leftwmthemes/space_jelly"
 commit = "*"
@@ -236,6 +228,13 @@ version = "0.0.1"
 leftwm_versions = ">0.3.0"
 current = false
 
+[[repos.themes]]
+name = "Double Bar"
+repository = "https://github.com/PeterDauwe/doublebar/"
+commit = "*"
+version = "0.0.2"
+leftwm_versions = "^0.3.0"
+
 [[repos]]
 url = "localhost"
 name = "LOCAL"
@@ -243,7 +242,7 @@ definitions_version = 0
 
 [[repos.themes]]
 name = "candy"
-version = "4.1.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = true
 
@@ -256,7 +255,7 @@ definitions_version = 0
 name = "docky"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-docky/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -264,7 +263,7 @@ current = false
 name = "eden"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -272,7 +271,7 @@ current = false
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -280,7 +279,7 @@ current = false
 name = "mesh"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-mesh/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -288,7 +287,7 @@ current = false
 name = "matrix"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-matrix/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -296,7 +295,7 @@ current = false
 name = "parker"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -304,7 +303,7 @@ current = false
 name = "pi"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-pi/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -312,7 +311,7 @@ current = false
 name = "shades"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-shades/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -320,7 +319,7 @@ current = false
 name = "space"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-space/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -328,7 +327,7 @@ current = false
 name = "starwars"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-starwars/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -336,7 +335,7 @@ current = false
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -344,7 +343,7 @@ current = false
 name = "forest"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-forest/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -352,7 +351,7 @@ current = false
 name = "grayblocks"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-grayblocks/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -360,7 +359,7 @@ current = false
 name = "greyblocks"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-greyblocks/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -368,7 +367,7 @@ current = false
 name = "halo"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-halo/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -376,7 +375,7 @@ current = false
 name = "db"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -384,7 +383,7 @@ current = false
 name = "db-scifi-star"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-scifi-star/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -392,7 +391,7 @@ current = false
 name = "db-nemesis"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-nemesis/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -400,7 +399,7 @@ current = false
 name = "arise"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-arise/"
 commit = "*"
-version = "2.4.1"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
@@ -408,62 +407,54 @@ current = false
 name = "fancy"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-fancy/"
 commit = "*"
-version = "2.4.1"
-leftwm_versions = ">=0.3.0"
-current = true
-
-[[repos]]
-url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes-community/main/known.toml"
-name = "arcolinux-community"
-definitions_version = 0
-
-[[repos.themes]]
-name = "doublebar"
-repository = "https://github.com/PeterDauwe/doublebar/"
-commit = "*"
-version = "2.3.2"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
 [[repos.themes]]
 name = "db-color-dev"
-repository = "https://github.com/PeterDauwe/db-color-dev"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-color-dev/"
 commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-current = false
-
-[[repos.themes]]
-name = "db-scifi"
-repository = "https://github.com/PeterDauwe/db-scifi"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-current = false
-
-[[repos.themes]]
-name = "db-labels"
-repository = "https://github.com/PeterDauwe/db-labels"
-commit = "*"
-version = "2.3.2"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
 [[repos.themes]]
 name = "db-comic"
-repository = "https://github.com/PeterDauwe/db-comic"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-comic/"
 commit = "*"
-version = "2.3.2"
+version = "3.1.1"
+leftwm_versions = ">=0.3.0"
+current = false
+
+[[repos.themes]]
+name = "db-scifi"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-scifi/"
+commit = "*"
+version = "3.1.1"
+leftwm_versions = ">=0.3.0"
+current = false
+
+[[repos.themes]]
+name = "doublebar"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-doublebar/"
+commit = "*"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
 
 [[repos.themes]]
 name = "sb-horror"
-repository = "https://github.com/PeterDauwe/sb-horror"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-sb-horror/"
 commit = "*"
-version = "2.3.2"
+version = "3.1.1"
 leftwm_versions = ">=0.3.0"
 current = false
+
+[[repos]]
+url = "https://raw.githubusercontent.com/arcolinux/arcolinux-leftwm-themes-community/main/known.toml"
+name = "arcolinux-community"
+definitions_version = 0
 
 [[repos.themes]]
 name = "kittycafe-sm"
