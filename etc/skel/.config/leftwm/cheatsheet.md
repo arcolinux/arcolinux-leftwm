@@ -33,9 +33,8 @@
   Super  Shift  1 .. 0    *move container to workspace 1 .. 10*
 
 # notes
-  - Follow the official site - https://i3wm.org/
-  - Follow the wiki - https://wiki.archlinux.org/title/I3
-  - Follow the github - https://github.com/i3/i3
+  - Follow the official site - http://leftwm.org/
+  - Follow the github - https://github.com/leftwm/leftwm
 
 # user githubs
   - ...
