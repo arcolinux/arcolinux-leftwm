@@ -78,10 +78,6 @@ super + h
 super + r
     rofi-theme-selector
 
-#Urxvt
-super + t
-    urxvt
-
 #Pavucontrol
 super + v
     pavucontrol
@@ -89,10 +85,6 @@ super + v
 #Pragha
 super + m
     pragha
-
-#urxvt
-super + Return
-    urxvt
 
 #Xkill
 super + Escape
@@ -200,14 +192,6 @@ ctrl + alt + r
 #Spotify
 ctrl + alt + s
    spotify
-
-#urxvt
-ctrl + alt + Return
-    urxvt
-
-#urxvt
-ctrl + alt + t
-    urxvt
 
 #Vivaldi
 ctrl + alt + v
