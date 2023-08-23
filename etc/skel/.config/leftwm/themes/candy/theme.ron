@@ -1,3 +1,4 @@
+#![enable(implicit_some)]
 (
 border_width: 2,
 margin: [8, 8],
