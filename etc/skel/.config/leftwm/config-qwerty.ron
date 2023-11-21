@@ -35,7 +35,7 @@
     disable_window_snap: true,
     focus_behaviour: Sloppy,
     focus_new_windows: true,
-    sloppy_mouse_follows_focus: true,
+    sloppy_mouse_follows_focus: false,
     keybind: [
         (command: Execute, value: "xfce4-terminal --drop-down", modifier: [], key: "F12"),
         (command: Execute, value: "killall conky", modifier: ["modkey"], key: "c"),

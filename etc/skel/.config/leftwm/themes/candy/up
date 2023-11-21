@@ -13,7 +13,8 @@ sxhkd -c ~/.config/leftwm/sxhkd/sxhkdrc &
 
 # diversity of apps to start
 nm-applet &
-pamac-tray &
+#pamac-tray &
+#/usr/bin/octopi-notifier &
 xfce4-power-manager &
 numlockx on &
 blueberry-tray &
