@@ -40,7 +40,7 @@ super + F8
 
 #Evolution
 super + F9
-    evolution
+    lollypop
 
 #Spotify
 super + F10
@@ -82,9 +82,9 @@ super + r
 super + v
     pavucontrol
 
-#Pragha
+#Audio player
 super + m
-    pragha
+    lollypop
 
 #Xkill
 super + Escape
