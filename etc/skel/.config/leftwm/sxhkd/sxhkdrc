@@ -95,6 +95,10 @@ super + Escape
 super + KP_Enter
 	urxvt
 
+#powermenu
+super + shift + x
+    arcolinux-powermenu
+
 #################################################################
 # SUPER + SHIFT KEYS
 #################################################################
