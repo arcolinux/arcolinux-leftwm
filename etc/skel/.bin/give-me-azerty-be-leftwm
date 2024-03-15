@@ -33,7 +33,7 @@ echo
 
 user=$( who | cut -d ' ' -f1 | uniq)
 
-cp -v /home/$user/.config/leftwm/config-azerty.ron /home/$user/leftwm/config.ron
+cp -v /home/$user/.config/leftwm/config-azerty.ron /home/$user/.config/leftwm/config.ron
 
 echo
 echo "###############################################################################"
